@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">363832314216-6gnhrl48quj7l7t41katps1tpsmviqbm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">363832314216</string>
+    <string name="google_api_key" translatable="false">AIzaSyA5Ng_zlPCKJzPA6ZBag-vmcTVawG1MYTs</string>
+    <string name="google_app_id" translatable="false">1:363832314216:android:3f9aa8869f1b0b8e3caedd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5Ng_zlPCKJzPA6ZBag-vmcTVawG1MYTs</string>
+    <string name="google_storage_bucket" translatable="false">brham-daan.appspot.com</string>
+    <string name="project_id" translatable="false">brham-daan</string>
+</resources>

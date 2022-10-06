@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363832314216",
+    "project_id": "brham-daan",
+    "storage_bucket": "brham-daan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363832314216:android:3f9aa8869f1b0b8e3caedd",
+        "android_client_info": {
+          "package_name": "com.example.brahm_daan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363832314216-t51vqc8mrvockd861311a8t7mual2hhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brahm_daan",
+            "certificate_hash": "46c60a5ef589bc56d556d4b156dc671502544f6d"
+          }
+        },
+        {
+          "client_id": "363832314216-6gnhrl48quj7l7t41katps1tpsmviqbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Ng_zlPCKJzPA6ZBag-vmcTVawG1MYTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363832314216-6gnhrl48quj7l7t41katps1tpsmviqbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
