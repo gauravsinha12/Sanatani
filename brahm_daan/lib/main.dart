@@ -1,16 +1,11 @@
+import 'package:brahm_daan/screens/main_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:brahm_daan/controller/auth_controller.dart';
+import 'screens/login_page.dart';
 
-import 'screens/login_screen/login_screen.dart';
-import 'utils/constants.dart';
-
-Future<void> main() async {
+void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp().then((value) => Get.put(AuthController()));
-
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
 
@@ -20,16 +15,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Login App',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        scaffoldBackgroundColor: kBackgroundColor,
-        textTheme: Theme.of(context).textTheme.apply(
-              bodyColor: kPrimaryColor,
-              fontFamily: 'Montserrat',
-            ),
-      ),
-      home: const LoginScreen(),
+      home: MainPage(),
     );
   }
 }

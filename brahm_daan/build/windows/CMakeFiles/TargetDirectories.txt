@@ -1,0 +1,10 @@
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/CMakeFiles/INSTALL.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/CMakeFiles/ALL_BUILD.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/CMakeFiles/ZERO_CHECK.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/flutter/CMakeFiles/INSTALL.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/runner/CMakeFiles/INSTALL.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/runner/CMakeFiles/brahm_daan.dir
+F:/flut/sanatani/Sanatani/brahm_daan/build/windows/runner/CMakeFiles/ALL_BUILD.dir
