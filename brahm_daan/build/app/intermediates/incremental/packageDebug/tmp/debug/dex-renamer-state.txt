@@ -1,4 +1,4 @@
-#Thu Oct 06 19:56:00 IST 2022
-base.0=C\:\\Users\\Gaurav\\Desktop\\sanatani\\brahm_daan\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Oct 12 08:39:14 IST 2022
+base.0=F\:\\flut\\sanatani\\Sanatani\\brahm_daan\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
